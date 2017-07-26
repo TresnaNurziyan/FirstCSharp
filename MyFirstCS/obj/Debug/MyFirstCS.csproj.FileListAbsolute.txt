@@ -1,0 +1,12 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyFirstCS\MyFirstCS\bin\Debug\MyFirstCS.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyFirstCS\MyFirstCS\bin\Debug\MyFirstCS.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyFirstCS\MyFirstCS\bin\Debug\MyFirstCS.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyFirstCS\MyFirstCS\obj\Debug\MyFirstCS.csprojResolveAssemblyReference.cache
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyFirstCS\MyFirstCS\obj\Debug\MyFirstCS.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\MyFirstCS\MyFirstCS\obj\Debug\MyFirstCS.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\MyFirstCS\MyFirstCS\bin\Debug\MyFirstCS.exe.config
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\MyFirstCS\MyFirstCS\obj\Debug\MyFirstCS.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\MyFirstCS\MyFirstCS\obj\Debug\MyFirstCS.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\MyFirstCS\MyFirstCS\bin\Debug\MyFirstCS.exe
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\MyFirstCS\MyFirstCS\bin\Debug\MyFirstCS.pdb
+C:\Users\tresna\Documents\Visual Studio 2015\Projects\MyFirstCS\MyFirstCS\obj\Debug\MyFirstCS.csprojResolveAssemblyReference.cache
